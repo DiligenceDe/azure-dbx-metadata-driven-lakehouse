@@ -1,0 +1,12 @@
+{
+  "table_id": 2,
+  "source_id": 1,
+  "schema_name": "Sales",
+  "table_name": "SalesOrderHeader",
+  "load_type": "INCREMENTAL",
+  "watermark_column": "ModifiedDate",
+  "last_successful_watermark": "2025-01-01T00:00:00",
+  "target_layer": "BRONZE",
+  "is_active": true,
+  "_note": "Illustrative only; validate source schema and watermark behavior."
+}

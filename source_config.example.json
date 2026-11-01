@@ -1,0 +1,8 @@
+{
+  "source_id": 1,
+  "source_name": "AdventureWorks SQL Server",
+  "source_type": "SQLServer",
+  "connection_ref": "REPLACE_WITH_ADF_LINKED_SERVICE_NAME",
+  "database_name": "AdventureWorks2022",
+  "is_active": true
+}
